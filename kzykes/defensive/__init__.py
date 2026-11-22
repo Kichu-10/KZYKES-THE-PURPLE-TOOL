@@ -1,0 +1,1 @@
+"""Defensive audit module placeholders."""
