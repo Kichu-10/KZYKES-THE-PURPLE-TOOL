@@ -279,3 +279,4 @@ pytest tests/ -v
 You must **generate every file** in the layout above with complete, working code — no placeholders, no `# TODO`, no `pass` except in exception handlers. If any module is too large to fully render in one reply, split across multiple replies and confirm each file is complete before moving on.
 
 Begin with: `requirements.txt`, `setup.py`, `pyproject.toml`, and `core/config.py`. Then move through `core/` → `offensive/` → `defensive/` → `dashboard/` → `tests/` → `README.md`. Ask nothing. Produce.
+now the real game begin 
